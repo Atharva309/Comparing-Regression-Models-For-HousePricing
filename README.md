@@ -8,13 +8,13 @@ We will be using the Boston Housing dataset, which can be found at the UCI Machi
 ## Models
 In this project, we will be using the following regression models:
 
-Linear Regression
-Support Vector Regression (SVR)
-Random Forest Regression
-Gradient Boosting Regression
-Neural Networks
-K-Nearest Neighbors Regression
-Decision Tree Regression
+- Linear Regression
+- Support Vector Regression
+- Random Forest Regression
+- Gradient Boosting Regression
+- Neural Networks
+- K-Nearest Neighbors Regression
+- Decision Tree Regression
 
 ### 1. Linear Regression
 Linear regression is a simple and commonly used regression model that assumes a linear relationship between the input and output variables. It aims to find the best-fit line to predict the output variable based on the input variables.
